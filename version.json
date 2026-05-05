@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "1.0.3",
+  "latestVersionCode": 8,
+  "latestVersionName": "1.0.4",
   "downloadUrl": "https://t.me/BILLX2026",
-  "forceUpdate": false,
-  "updateMessage": "التطبيق تحت التجربة وبنسبة انجاز 90% استمتع بتجربة مجانية لفترة محدودة"
+  "forceUpdate": true,
+  "updateMessage": "اصلاح خلل عام..يرجى التحديث لمواصلة استخدام التطبيق"
 }
